@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html> 
+<body>
+  <!--Links-->
+  <ul>
+    <li>    <a href="Website.html"> Lists  </a> </li>
+    <li>    <a href="index.html"> Home Page </a> </li>
+    <li>    <a href="Dog.html"> Lists(Dogs) </a> </li>
+  </ul>
+  
+</body>
+<html>
+  <head>
+    <!--Introduction-->
+    <h1>Why Are Snakes Important?</h1>
+    <!--Image of a Blue Pit Viper-->
+    <img src="Blue-Pit-Viper.jpg" alt="siiting on a tree">
+    <p>Photo taken by Fabian Mühlberger from https://www.nationalgeographic.com/</p>
+    <ul>
+      <!--Reasons-->
+      <li>Like all animals they play an important role in the ecosystem.</li>
+      <li>They have a role in keeping control of the number of mice and rats at bay.
+      <li>They are best pest control.</li>
+    </ul>   
